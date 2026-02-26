@@ -7,19 +7,19 @@
 
 body {
   background-color: #f4f4f4;
-  color: #333;
+  color: #771c1c;
   line-height: 1.6;
 }
 
 header {
-  background: #333;
+  background: #771c1c;
   color: #fff;
   padding: 20px 0;
   text-align: center;
 }
 
 nav {
-  background: #555;
+  background: #854949;
   padding: 10px;
   text-align: center;
 }
@@ -59,7 +59,7 @@ nav a:hover {
 .read-more {
   display: inline-block;
   margin-top: 10px;
-  color: #333;
+  color: #771c1c;
   font-weight: bold;
   text-decoration: none;
 }
@@ -68,7 +68,7 @@ nav a:hover {
 }
 
 footer {
-  background: #333;
+  background: #771c1c;
   color: #fff;
   text-align: center;
   padding: 15px;
